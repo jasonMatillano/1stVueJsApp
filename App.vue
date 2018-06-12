@@ -16,6 +16,7 @@ export default {
     'app-header': Header, //'conponent_name': (object_name)
     'app-footer': Footer, //'conponent_name': (object_name)
     'app-roomates': Roomates, //'conponent_name': (object_name)
+    
   },
 
   data () {
